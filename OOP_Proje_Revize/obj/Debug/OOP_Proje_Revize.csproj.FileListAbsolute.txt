@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\OOP_Proje_Revize\bin\Debug\OOP_Proje_Revize.exe.config
+C:\Users\admin\source\repos\OOP_Proje_Revize\bin\Debug\OOP_Proje_Revize.exe
+C:\Users\admin\source\repos\OOP_Proje_Revize\bin\Debug\OOP_Proje_Revize.pdb
+C:\Users\admin\source\repos\OOP_Proje_Revize\obj\Debug\OOP_Proje_Revize.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\OOP_Proje_Revize\obj\Debug\OOP_Proje_Revize.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\OOP_Proje_Revize\obj\Debug\OOP_Proje_Revize.exe
+C:\Users\admin\source\repos\OOP_Proje_Revize\obj\Debug\OOP_Proje_Revize.pdb
